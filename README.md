@@ -24,7 +24,7 @@
     <img align="center" alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div><br/>
 
-### Analista de testes, apaixonado por tecnolgia e trazer soluções inovadora para o seu negócio!
+### Desenvolvedor Front-End, apaixonado por tecnolgia e trazer soluções inovadora para o seu negócio!
 
 <div style="display: inline_block" ><br/>
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
